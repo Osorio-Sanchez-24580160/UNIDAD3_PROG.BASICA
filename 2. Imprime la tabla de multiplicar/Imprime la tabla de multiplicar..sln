@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imprime la tabla de multiplicar", "Imprime la tabla de multiplicar.csproj", "{C358C46B-8875-432C-8382-65DDFFC9F122}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C358C46B-8875-432C-8382-65DDFFC9F122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C358C46B-8875-432C-8382-65DDFFC9F122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C358C46B-8875-432C-8382-65DDFFC9F122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C358C46B-8875-432C-8382-65DDFFC9F122}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DB03E5D-155E-4C1B-9BD8-3C108A2EF967}
+	EndGlobalSection
+EndGlobal

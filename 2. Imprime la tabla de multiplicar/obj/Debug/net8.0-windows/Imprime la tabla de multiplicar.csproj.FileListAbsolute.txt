@@ -1,0 +1,16 @@
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime la tabla de multiplicar\bin\Debug\net8.0-windows\Imprime la tabla de multiplicar.exe
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime la tabla de multiplicar\bin\Debug\net8.0-windows\Imprime la tabla de multiplicar.deps.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime la tabla de multiplicar\bin\Debug\net8.0-windows\Imprime la tabla de multiplicar.runtimeconfig.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime la tabla de multiplicar\bin\Debug\net8.0-windows\Imprime la tabla de multiplicar.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime la tabla de multiplicar\bin\Debug\net8.0-windows\Imprime la tabla de multiplicar.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime la tabla de multiplicar\obj\Debug\net8.0-windows\Imprime_la_tabla_de_multiplicar.Form1.resources
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime la tabla de multiplicar\obj\Debug\net8.0-windows\Imprime la tabla de multiplicar.csproj.GenerateResource.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime la tabla de multiplicar\obj\Debug\net8.0-windows\Imprime la tabla de multiplicar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime la tabla de multiplicar\obj\Debug\net8.0-windows\Imprime la tabla de multiplicar.AssemblyInfoInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime la tabla de multiplicar\obj\Debug\net8.0-windows\Imprime la tabla de multiplicar.AssemblyInfo.cs
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime la tabla de multiplicar\obj\Debug\net8.0-windows\Imprime la tabla de multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime la tabla de multiplicar\obj\Debug\net8.0-windows\Imprime la tabla de multiplicar.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime la tabla de multiplicar\obj\Debug\net8.0-windows\refint\Imprime la tabla de multiplicar.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime la tabla de multiplicar\obj\Debug\net8.0-windows\Imprime la tabla de multiplicar.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime la tabla de multiplicar\obj\Debug\net8.0-windows\Imprime la tabla de multiplicar.genruntimeconfig.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime la tabla de multiplicar\obj\Debug\net8.0-windows\ref\Imprime la tabla de multiplicar.dll
