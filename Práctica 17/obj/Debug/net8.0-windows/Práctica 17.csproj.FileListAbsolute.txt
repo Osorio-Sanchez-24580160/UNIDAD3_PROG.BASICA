@@ -1,0 +1,16 @@
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Práctica 17\bin\Debug\net8.0-windows\Práctica 17.exe
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Práctica 17\bin\Debug\net8.0-windows\Práctica 17.deps.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Práctica 17\bin\Debug\net8.0-windows\Práctica 17.runtimeconfig.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Práctica 17\bin\Debug\net8.0-windows\Práctica 17.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Práctica 17\bin\Debug\net8.0-windows\Práctica 17.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Práctica 17\obj\Debug\net8.0-windows\Práctica_17.Form1.resources
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Práctica 17\obj\Debug\net8.0-windows\Práctica 17.csproj.GenerateResource.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Práctica 17\obj\Debug\net8.0-windows\Práctica 17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Práctica 17\obj\Debug\net8.0-windows\Práctica 17.AssemblyInfoInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Práctica 17\obj\Debug\net8.0-windows\Práctica 17.AssemblyInfo.cs
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Práctica 17\obj\Debug\net8.0-windows\Práctica 17.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Práctica 17\obj\Debug\net8.0-windows\Práctica 17.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Práctica 17\obj\Debug\net8.0-windows\refint\Práctica 17.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Práctica 17\obj\Debug\net8.0-windows\Práctica 17.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Práctica 17\obj\Debug\net8.0-windows\Práctica 17.genruntimeconfig.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Práctica 17\obj\Debug\net8.0-windows\ref\Práctica 17.dll
