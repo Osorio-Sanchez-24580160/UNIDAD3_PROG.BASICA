@@ -1,0 +1,16 @@
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\factorial de un número\bin\Debug\net8.0-windows\factorial de un número.exe
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\factorial de un número\bin\Debug\net8.0-windows\factorial de un número.deps.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\factorial de un número\bin\Debug\net8.0-windows\factorial de un número.runtimeconfig.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\factorial de un número\bin\Debug\net8.0-windows\factorial de un número.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\factorial de un número\bin\Debug\net8.0-windows\factorial de un número.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\factorial de un número\obj\Debug\net8.0-windows\factorial_de_un_número.Form1.resources
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\factorial de un número\obj\Debug\net8.0-windows\factorial de un número.csproj.GenerateResource.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\factorial de un número\obj\Debug\net8.0-windows\factorial de un número.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\factorial de un número\obj\Debug\net8.0-windows\factorial de un número.AssemblyInfoInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\factorial de un número\obj\Debug\net8.0-windows\factorial de un número.AssemblyInfo.cs
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\factorial de un número\obj\Debug\net8.0-windows\factorial de un número.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\factorial de un número\obj\Debug\net8.0-windows\factorial de un número.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\factorial de un número\obj\Debug\net8.0-windows\refint\factorial de un número.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\factorial de un número\obj\Debug\net8.0-windows\factorial de un número.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\factorial de un número\obj\Debug\net8.0-windows\factorial de un número.genruntimeconfig.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\factorial de un número\obj\Debug\net8.0-windows\ref\factorial de un número.dll

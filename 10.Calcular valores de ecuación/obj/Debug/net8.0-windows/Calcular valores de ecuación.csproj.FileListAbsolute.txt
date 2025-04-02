@@ -1,0 +1,16 @@
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Calcular valores de ecuación\bin\Debug\net8.0-windows\Calcular valores de ecuación.exe
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Calcular valores de ecuación\bin\Debug\net8.0-windows\Calcular valores de ecuación.deps.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Calcular valores de ecuación\bin\Debug\net8.0-windows\Calcular valores de ecuación.runtimeconfig.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Calcular valores de ecuación\bin\Debug\net8.0-windows\Calcular valores de ecuación.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Calcular valores de ecuación\bin\Debug\net8.0-windows\Calcular valores de ecuación.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Calcular valores de ecuación\obj\Debug\net8.0-windows\Calcular_valores_de_ecuación.Form1.resources
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Calcular valores de ecuación\obj\Debug\net8.0-windows\Calcular valores de ecuación.csproj.GenerateResource.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Calcular valores de ecuación\obj\Debug\net8.0-windows\Calcular valores de ecuación.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Calcular valores de ecuación\obj\Debug\net8.0-windows\Calcular valores de ecuación.AssemblyInfoInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Calcular valores de ecuación\obj\Debug\net8.0-windows\Calcular valores de ecuación.AssemblyInfo.cs
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Calcular valores de ecuación\obj\Debug\net8.0-windows\Calcular valores de ecuación.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Calcular valores de ecuación\obj\Debug\net8.0-windows\Calcular valores de ecuación.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Calcular valores de ecuación\obj\Debug\net8.0-windows\refint\Calcular valores de ecuación.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Calcular valores de ecuación\obj\Debug\net8.0-windows\Calcular valores de ecuación.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Calcular valores de ecuación\obj\Debug\net8.0-windows\Calcular valores de ecuación.genruntimeconfig.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Calcular valores de ecuación\obj\Debug\net8.0-windows\ref\Calcular valores de ecuación.dll

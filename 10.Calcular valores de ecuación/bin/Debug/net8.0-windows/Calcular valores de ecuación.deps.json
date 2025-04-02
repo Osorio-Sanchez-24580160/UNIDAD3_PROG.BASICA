@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Calcular valores de ecuación/1.0.0": {
+        "runtime": {
+          "Calcular valores de ecuación.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calcular valores de ecuación/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
