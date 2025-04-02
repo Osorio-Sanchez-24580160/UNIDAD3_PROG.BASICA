@@ -1,0 +1,34 @@
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Gif animado\bin\Debug\net8.0-windows\Gif animado.exe
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Gif animado\bin\Debug\net8.0-windows\Gif animado.deps.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Gif animado\bin\Debug\net8.0-windows\Gif animado.runtimeconfig.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Gif animado\bin\Debug\net8.0-windows\Gif animado.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Gif animado\bin\Debug\net8.0-windows\Gif animado.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Gif animado\obj\Debug\net8.0-windows\Gif_animado.Form1.resources
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Gif animado\obj\Debug\net8.0-windows\Gif_animado.Properties.Resources.resources
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Gif animado\obj\Debug\net8.0-windows\Gif animado.csproj.GenerateResource.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Gif animado\obj\Debug\net8.0-windows\Gif animado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Gif animado\obj\Debug\net8.0-windows\Gif animado.AssemblyInfoInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Gif animado\obj\Debug\net8.0-windows\Gif animado.AssemblyInfo.cs
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Gif animado\obj\Debug\net8.0-windows\Gif animado.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Gif animado\obj\Debug\net8.0-windows\Gif animado.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Gif animado\obj\Debug\net8.0-windows\refint\Gif animado.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Gif animado\obj\Debug\net8.0-windows\Gif animado.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Gif animado\obj\Debug\net8.0-windows\Gif animado.genruntimeconfig.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Gif animado\obj\Debug\net8.0-windows\ref\Gif animado.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Unidad 3\Gif animado\bin\Debug\net8.0-windows\Gif animado.exe
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Unidad 3\Gif animado\bin\Debug\net8.0-windows\Gif animado.deps.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Unidad 3\Gif animado\bin\Debug\net8.0-windows\Gif animado.runtimeconfig.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Unidad 3\Gif animado\bin\Debug\net8.0-windows\Gif animado.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Unidad 3\Gif animado\bin\Debug\net8.0-windows\Gif animado.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Unidad 3\Gif animado\obj\Debug\net8.0-windows\Gif_animado.Form1.resources
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Unidad 3\Gif animado\obj\Debug\net8.0-windows\Gif_animado.Properties.Resources.resources
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Unidad 3\Gif animado\obj\Debug\net8.0-windows\Gif animado.csproj.GenerateResource.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Unidad 3\Gif animado\obj\Debug\net8.0-windows\Gif animado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Unidad 3\Gif animado\obj\Debug\net8.0-windows\Gif animado.AssemblyInfoInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Unidad 3\Gif animado\obj\Debug\net8.0-windows\Gif animado.AssemblyInfo.cs
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Unidad 3\Gif animado\obj\Debug\net8.0-windows\Gif animado.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Unidad 3\Gif animado\obj\Debug\net8.0-windows\Gif animado.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Unidad 3\Gif animado\obj\Debug\net8.0-windows\refint\Gif animado.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Unidad 3\Gif animado\obj\Debug\net8.0-windows\Gif animado.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Unidad 3\Gif animado\obj\Debug\net8.0-windows\Gif animado.genruntimeconfig.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Unidad 3\Gif animado\obj\Debug\net8.0-windows\ref\Gif animado.dll
