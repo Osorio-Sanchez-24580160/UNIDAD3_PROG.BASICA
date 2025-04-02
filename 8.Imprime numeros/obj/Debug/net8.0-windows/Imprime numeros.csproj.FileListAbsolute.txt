@@ -1,0 +1,16 @@
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime numeros\bin\Debug\net8.0-windows\Imprime numeros.exe
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime numeros\bin\Debug\net8.0-windows\Imprime numeros.deps.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime numeros\bin\Debug\net8.0-windows\Imprime numeros.runtimeconfig.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime numeros\bin\Debug\net8.0-windows\Imprime numeros.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime numeros\bin\Debug\net8.0-windows\Imprime numeros.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime numeros\obj\Debug\net8.0-windows\Imprime_numeros.Form1.resources
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime numeros\obj\Debug\net8.0-windows\Imprime numeros.csproj.GenerateResource.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime numeros\obj\Debug\net8.0-windows\Imprime numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime numeros\obj\Debug\net8.0-windows\Imprime numeros.AssemblyInfoInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime numeros\obj\Debug\net8.0-windows\Imprime numeros.AssemblyInfo.cs
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime numeros\obj\Debug\net8.0-windows\Imprime numeros.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime numeros\obj\Debug\net8.0-windows\Imprime numeros.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime numeros\obj\Debug\net8.0-windows\refint\Imprime numeros.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime numeros\obj\Debug\net8.0-windows\Imprime numeros.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime numeros\obj\Debug\net8.0-windows\Imprime numeros.genruntimeconfig.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime numeros\obj\Debug\net8.0-windows\ref\Imprime numeros.dll
