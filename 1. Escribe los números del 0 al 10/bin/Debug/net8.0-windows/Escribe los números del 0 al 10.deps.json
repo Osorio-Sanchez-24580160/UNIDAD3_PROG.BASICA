@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Escribe los números del 0 al 10/1.0.0": {
+        "runtime": {
+          "Escribe los números del 0 al 10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Escribe los números del 0 al 10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

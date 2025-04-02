@@ -1,0 +1,16 @@
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Par o Impar\bin\Debug\net8.0-windows\Par o Impar.exe
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Par o Impar\bin\Debug\net8.0-windows\Par o Impar.deps.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Par o Impar\bin\Debug\net8.0-windows\Par o Impar.runtimeconfig.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Par o Impar\bin\Debug\net8.0-windows\Par o Impar.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Par o Impar\bin\Debug\net8.0-windows\Par o Impar.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Par o Impar\obj\Debug\net8.0-windows\Par_o_Impar.Form1.resources
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Par o Impar\obj\Debug\net8.0-windows\Par o Impar.csproj.GenerateResource.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Par o Impar\obj\Debug\net8.0-windows\Par o Impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Par o Impar\obj\Debug\net8.0-windows\Par o Impar.AssemblyInfoInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Par o Impar\obj\Debug\net8.0-windows\Par o Impar.AssemblyInfo.cs
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Par o Impar\obj\Debug\net8.0-windows\Par o Impar.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Par o Impar\obj\Debug\net8.0-windows\Par o Impar.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Par o Impar\obj\Debug\net8.0-windows\refint\Par o Impar.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Par o Impar\obj\Debug\net8.0-windows\Par o Impar.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Par o Impar\obj\Debug\net8.0-windows\Par o Impar.genruntimeconfig.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Par o Impar\obj\Debug\net8.0-windows\ref\Par o Impar.dll
