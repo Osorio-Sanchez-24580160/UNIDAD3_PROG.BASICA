@@ -1,0 +1,22 @@
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\introduce y suma numeros\bin\Debug\net8.0-windows\introduce y suma numeros.exe
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\introduce y suma numeros\bin\Debug\net8.0-windows\introduce y suma numeros.deps.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\introduce y suma numeros\bin\Debug\net8.0-windows\introduce y suma numeros.runtimeconfig.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\introduce y suma numeros\bin\Debug\net8.0-windows\introduce y suma numeros.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\introduce y suma numeros\bin\Debug\net8.0-windows\introduce y suma numeros.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\introduce y suma numeros\obj\Debug\net8.0-windows\introduce_y_suma_numeros.Form1.resources
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\introduce y suma numeros\obj\Debug\net8.0-windows\introduce y suma numeros.csproj.GenerateResource.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\introduce y suma numeros\obj\Debug\net8.0-windows\introduce y suma numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\introduce y suma numeros\obj\Debug\net8.0-windows\introduce y suma numeros.AssemblyInfoInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\introduce y suma numeros\obj\Debug\net8.0-windows\introduce y suma numeros.AssemblyInfo.cs
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\introduce y suma numeros\obj\Debug\net8.0-windows\introduce y suma numeros.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\introduce y suma numeros\obj\Debug\net8.0-windows\introduce y suma numeros.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\introduce y suma numeros\obj\Debug\net8.0-windows\refint\introduce y suma numeros.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\introduce y suma numeros\obj\Debug\net8.0-windows\introduce y suma numeros.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\introduce y suma numeros\obj\Debug\net8.0-windows\introduce y suma numeros.genruntimeconfig.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\introduce y suma numeros\obj\Debug\net8.0-windows\ref\introduce y suma numeros.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\3. Programa que suma números que introduce el usuario, y suma todos cuando das click al botón\obj\Debug\net8.0-windows\introduce_y_suma_numeros.Form1.resources
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\3. Programa que suma números que introduce el usuario, y suma todos cuando das click al botón\obj\Debug\net8.0-windows\introduce y suma numeros.csproj.GenerateResource.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\3. Programa que suma números que introduce el usuario, y suma todos cuando das click al botón\obj\Debug\net8.0-windows\introduce y suma numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\3. Programa que suma números que introduce el usuario, y suma todos cuando das click al botón\obj\Debug\net8.0-windows\introduce y suma numeros.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\3. Programa que suma números que introduce el usuario, y suma todos cuando das click al botón\obj\Debug\net8.0-windows\refint\introduce y suma numeros.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\3. Programa que suma números que introduce el usuario, y suma todos cuando das click al botón\obj\Debug\net8.0-windows\introduce y suma numeros.pdb

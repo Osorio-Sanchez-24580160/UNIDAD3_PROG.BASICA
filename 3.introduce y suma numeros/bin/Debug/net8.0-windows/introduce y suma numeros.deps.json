@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "introduce y suma numeros/1.0.0": {
+        "runtime": {
+          "introduce y suma numeros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "introduce y suma numeros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

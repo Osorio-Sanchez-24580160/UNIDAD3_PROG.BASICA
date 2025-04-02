@@ -1,0 +1,16 @@
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime 1 al 20\bin\Debug\net8.0-windows\Imprime 1 al 20.exe
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime 1 al 20\bin\Debug\net8.0-windows\Imprime 1 al 20.deps.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime 1 al 20\bin\Debug\net8.0-windows\Imprime 1 al 20.runtimeconfig.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime 1 al 20\bin\Debug\net8.0-windows\Imprime 1 al 20.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime 1 al 20\bin\Debug\net8.0-windows\Imprime 1 al 20.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime 1 al 20\obj\Debug\net8.0-windows\Imprime_1_al_20.Form1.resources
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime 1 al 20\obj\Debug\net8.0-windows\Imprime 1 al 20.csproj.GenerateResource.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime 1 al 20\obj\Debug\net8.0-windows\Imprime 1 al 20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime 1 al 20\obj\Debug\net8.0-windows\Imprime 1 al 20.AssemblyInfoInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime 1 al 20\obj\Debug\net8.0-windows\Imprime 1 al 20.AssemblyInfo.cs
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime 1 al 20\obj\Debug\net8.0-windows\Imprime 1 al 20.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime 1 al 20\obj\Debug\net8.0-windows\Imprime 1 al 20.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime 1 al 20\obj\Debug\net8.0-windows\refint\Imprime 1 al 20.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime 1 al 20\obj\Debug\net8.0-windows\Imprime 1 al 20.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime 1 al 20\obj\Debug\net8.0-windows\Imprime 1 al 20.genruntimeconfig.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Imprime 1 al 20\obj\Debug\net8.0-windows\ref\Imprime 1 al 20.dll
