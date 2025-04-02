@@ -1,0 +1,16 @@
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Area Triangulo\bin\Debug\net8.0-windows\Area Triangulo.exe
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Area Triangulo\bin\Debug\net8.0-windows\Area Triangulo.deps.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Area Triangulo\bin\Debug\net8.0-windows\Area Triangulo.runtimeconfig.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Area Triangulo\bin\Debug\net8.0-windows\Area Triangulo.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Area Triangulo\bin\Debug\net8.0-windows\Area Triangulo.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Area Triangulo\obj\Debug\net8.0-windows\Area_Triangulo.Form1.resources
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Area Triangulo\obj\Debug\net8.0-windows\Area Triangulo.csproj.GenerateResource.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Area Triangulo\obj\Debug\net8.0-windows\Area Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Area Triangulo\obj\Debug\net8.0-windows\Area Triangulo.AssemblyInfoInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Area Triangulo\obj\Debug\net8.0-windows\Area Triangulo.AssemblyInfo.cs
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Area Triangulo\obj\Debug\net8.0-windows\Area Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Area Triangulo\obj\Debug\net8.0-windows\Area Triangulo.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Area Triangulo\obj\Debug\net8.0-windows\refint\Area Triangulo.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Area Triangulo\obj\Debug\net8.0-windows\Area Triangulo.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Area Triangulo\obj\Debug\net8.0-windows\Area Triangulo.genruntimeconfig.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Area Triangulo\obj\Debug\net8.0-windows\ref\Area Triangulo.dll
