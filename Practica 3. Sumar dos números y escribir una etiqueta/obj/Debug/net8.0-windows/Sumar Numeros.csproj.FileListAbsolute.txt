@@ -1,0 +1,16 @@
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Sumar Numeros\bin\Debug\net8.0-windows\Sumar Numeros.exe
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Sumar Numeros\bin\Debug\net8.0-windows\Sumar Numeros.deps.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Sumar Numeros\bin\Debug\net8.0-windows\Sumar Numeros.runtimeconfig.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Sumar Numeros\bin\Debug\net8.0-windows\Sumar Numeros.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Sumar Numeros\bin\Debug\net8.0-windows\Sumar Numeros.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Sumar Numeros\obj\Debug\net8.0-windows\Sumar_Numeros.Form1.resources
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Sumar Numeros\obj\Debug\net8.0-windows\Sumar Numeros.csproj.GenerateResource.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Sumar Numeros\obj\Debug\net8.0-windows\Sumar Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Sumar Numeros\obj\Debug\net8.0-windows\Sumar Numeros.AssemblyInfoInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Sumar Numeros\obj\Debug\net8.0-windows\Sumar Numeros.AssemblyInfo.cs
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Sumar Numeros\obj\Debug\net8.0-windows\Sumar Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Sumar Numeros\obj\Debug\net8.0-windows\Sumar Numeros.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Sumar Numeros\obj\Debug\net8.0-windows\refint\Sumar Numeros.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Sumar Numeros\obj\Debug\net8.0-windows\Sumar Numeros.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Sumar Numeros\obj\Debug\net8.0-windows\Sumar Numeros.genruntimeconfig.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Sumar Numeros\obj\Debug\net8.0-windows\ref\Sumar Numeros.dll
