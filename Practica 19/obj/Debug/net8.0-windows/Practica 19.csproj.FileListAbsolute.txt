@@ -1,0 +1,17 @@
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Practica 19\bin\Debug\net8.0-windows\Practica 19.exe
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Practica 19\bin\Debug\net8.0-windows\Practica 19.deps.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Practica 19\bin\Debug\net8.0-windows\Practica 19.runtimeconfig.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Practica 19\bin\Debug\net8.0-windows\Practica 19.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Practica 19\bin\Debug\net8.0-windows\Practica 19.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Practica 19\obj\Debug\net8.0-windows\Practica_19.Form1.resources
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Practica 19\obj\Debug\net8.0-windows\Practica_19.Properties.Resources.resources
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Practica 19\obj\Debug\net8.0-windows\Practica 19.csproj.GenerateResource.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Practica 19\obj\Debug\net8.0-windows\Practica 19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Practica 19\obj\Debug\net8.0-windows\Practica 19.AssemblyInfoInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Practica 19\obj\Debug\net8.0-windows\Practica 19.AssemblyInfo.cs
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Practica 19\obj\Debug\net8.0-windows\Practica 19.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Practica 19\obj\Debug\net8.0-windows\Practica 19.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Practica 19\obj\Debug\net8.0-windows\refint\Practica 19.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Practica 19\obj\Debug\net8.0-windows\Practica 19.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Practica 19\obj\Debug\net8.0-windows\Practica 19.genruntimeconfig.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Practica 19\obj\Debug\net8.0-windows\ref\Practica 19.dll
